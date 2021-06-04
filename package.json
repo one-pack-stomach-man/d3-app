@@ -1,0 +1,15 @@
+{
+  "name": "d3-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.2.3"
+  },
+  "dependencies": {
+    "d3": "^5.6.0"
+  }
+}
