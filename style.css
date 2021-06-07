@@ -8,8 +8,8 @@
 }
 
 rect, circle {
-  fill: steelblue;
-  opacity: 0.6;
+  fill: orange;
+  opacity: 0.3;
 }
 .tick text {
   fill: #8E8883;
@@ -24,4 +24,14 @@ rect, circle {
 .label-class {
   fill: #8E8883;
   font-size: 3em; 
+}
+.axis-label {
+  font-size: 3em;
+  fill: #8E8883;
+}
+.stroke-class {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 3;
+  stroke-linejoin: round;
 }
